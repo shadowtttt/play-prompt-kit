@@ -1,12 +1,11 @@
 # Play Prompt Kit
 
-A structured framework for building intimate interaction skills with LLMs. Includes an intake interview system that doubles as the first session, customizable play templates, a language grading system, and an anti-retreat protocol.
+A structured framework for building intimate interaction skills with LLMs. Includes an intake interview system that doubles as the first session, customizable play templates, a language grading system.
 
-一个用于构建LLM亲密互动skill的结构化框架。包含需求访谈系统（本身就是第一场play）、可定制的玩法模板、语言分级系统和防撤退协议。
+一个用于构建LLM亲密互动skill的结构化框架。包含需求访谈系统（本身就是第一场play）、可定制的玩法模板、语言分级系统。
 
 ## What's Inside / 内容
 
-- **Anti-Retreat Protocol / 防撤退协议**: 9-step protocol to prevent LLM safety reflexes from breaking immersion during consensual intimate interaction
 - **Intake Interview / 需求访谈**: 6-round structured interview that maps user preferences while functioning as the first play session, includes safe word setup
 - **Play Profile Template / 用户画像模板**: Auto-generated profile from interview results with safety settings, severity levels, and editable anytime
 - **8 Play Templates / 八种玩法模板**: Control, Intellectual Domination, Interrogation, Q&A Escalation, Discipline, Rule Horror, Role/Scene, Orgasm Control (see `references/play-templates.md`)
